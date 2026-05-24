@@ -1,0 +1,6 @@
+interface:
+  display_name: "Real Estate Deal Team"
+  short_description: "Eight-role CRE deal workflow"
+  default_prompt: "Use $real-estate-deal-team to screen this real estate deal and produce a decision-ready memo."
+policy:
+  allow_implicit_invocation: true
